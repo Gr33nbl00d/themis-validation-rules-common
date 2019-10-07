@@ -10,6 +10,13 @@
   "main": "dist/lib/src/index.js",
   "module": "dist/lib/src/index.js",
   "typings": "dist/types/src/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/Gr33nbl00d/themis-validation-rules-common/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gr33nbl00d/themis-validation-rules-common.git"
+  },
   "scripts": {
     "clean": "rimraf dist",
     "build": "tsc --module commonjs",
