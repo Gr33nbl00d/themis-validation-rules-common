@@ -4,7 +4,7 @@
   "keywords": [
     "validation"
   ],
-  "version": "0.9.6",
+  "version": "0.9.7",
   "description": "Themis Validation Engine Common Rules",
   "author": "Gr33nbl00d",
   "main": "dist/lib/src/index.js",
@@ -31,7 +31,7 @@
     ]
   },
   "dependencies": {
-    "themis-validation-core": "0.9.8"
+    "themis-validation-core": "latest"
   },
   "devDependencies": {
     "alsatian": "^3.0.1",
